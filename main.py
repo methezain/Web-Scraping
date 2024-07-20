@@ -1,14 +1,3 @@
-# from bs4 import BeautifulSoup
-
-# with open('html files/sample_page.html', 'r') as html_file:
-#     content = html_file.read()
-    
-#     soup = BeautifulSoup(content , 'lxml')
-#     paragraphs_tag = soup.find_all('p', class_='paragraph')
-    
-#     for each_tag in paragraphs_tag:
-#         print(each_tag.text, end='\n\n') 
-
 from bs4 import BeautifulSoup 
 
 with open('html files/sample_page.html', 'r') as html_file:
@@ -20,9 +9,12 @@ with open('html files/sample_page.html', 'r') as html_file:
     
     for each_Course in course_cards:
         course_name = each_Course.h5.text 
-        course_price = each_Course.a.text.split()[0]  
+        course_price = each_Course.a.text.split()[0]   
         
-        print(f"{course_name} costs {course_price}") 
+        print(f"{course_name} costs {course_price}")
+        
+        
+print('helo')
         
         
         
