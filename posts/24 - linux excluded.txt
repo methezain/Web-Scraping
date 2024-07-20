@@ -1,0 +1,4 @@
+Company Name : destiny-hr-group-services
+Job Location : Gurgaon
+Skills Required : fundamentals, python, css, javascript, jquery, database, django, java, json, html
+Job Link : https://www.timesjobs.com/job-detail/python-developer-destiny-hr-group-services-gurgaon-0-to-1-yrs-jobid-__SLASH__hW2oflBM__SLASH__ZzpSvf__PLUS__uAgZw==&source=srp

@@ -1,0 +1,4 @@
+Company Name : zenga-tv
+Job Location : Gurgaon
+Skills Required : python, django, html5, javascript
+Job Link : https://www.timesjobs.com/job-detail/python-developer-zenga-tv-gurgaon-2-to-5-yrs-jobid-cQGeFhRqgNdzpSvf__PLUS__uAgZw==&source=srp

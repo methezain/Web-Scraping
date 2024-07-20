@@ -13,8 +13,6 @@ with open('html files/sample_page.html', 'r') as html_file:
         
         print(f"{course_name} costs {course_price}")
         
-        
-print('helo')
-        
+
         
         

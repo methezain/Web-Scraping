@@ -1,0 +1,4 @@
+Company Name : gammastack-indore
+Job Location : Indore
+Skills Required : python, database, django, rest api, oops, machine learning, artificial intelligence
+Job Link : https://www.timesjobs.com/job-detail/python-developer-gammastack-indore-indore-0-to-3-yrs-jobid-dcwF__PLUS__V4UP4JzpSvf__PLUS__uAgZw==&source=srp
