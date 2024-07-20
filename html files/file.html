@@ -1,0 +1,149 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8"></meta>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+    <title>Count Word, Characters, Sentences, Paragraphs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .rounded-button {
+            padding: 10px;
+          	padding-left: 20px;
+         	padding-right: 20px;
+            border: none;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 5px;
+            background-color: #00b8f2;
+            color: white;
+        }
+        #output {
+            margin-top: 20px;
+        }
+        
+        #textInput {
+            width: 100%; /* Adjust the width as needed */
+            height: 50%; /* Adjust the height as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Count Word, Characters, Sentences, Paragraphs</h1>
+        <div>
+            <label for="textInput">Enter your text:</label><br />
+            <textarea cols="50" id="textInput" rows="10" style="height: 50%; width: 100%;"></textarea>
+        </div>
+        <div>
+            <label for="fileInput">Or choose a file:</label><br />
+            <input accept=".pdf, .doc, .docx, .txt, .html, .xml, .json, .csv, .rtf, .markdown, .latex, .epub, .odt, .xhtml, .sgml, .csv, .tsv, .yaml, .ini, .bat, .sql, .markdown, .xml, .json, .html, .css, .sql, .csv, .rtf, .yaml, .sgml" id="fileInput" type="file" />
+            <p id="selectedFile"></p>
+        </div>
+        <button class="rounded-button" onclick="analyzeText()">Analyze Text</button>
+        <button class="rounded-button" onclick="refreshPage()">Refresh</button> 
+        <div id="output">
+          <h4>Words, Characters, Sentences, and Paragraphs Counts</h4>
+            <p>Words: <span id="wordCount">0</span></p>
+            <p>Sentences: <span id="sentenceCount">0</span></p>
+            <p>Characters: <span id="charCount">0</span></p>
+            <p>Paragraphs: <span id="paragraphCount">0</span></p>
+        </div>
+    </div>
+
+    <script>
+        function analyzeText() {
+            const text = document.getElementById('textInput').value;
+            const words = text.split(/\s+/).filter(word => word !== '');
+            const sentences = text.split(/[.!?]/).filter(sentence => sentence !== '');
+            const characters = text.length;
+            const paragraphs = text.split('\n').filter(paragraph => paragraph !== '').length;
+
+            document.getElementById('wordCount').textContent = words.length;
+            document.getElementById('sentenceCount').textContent = sentences.length;
+            document.getElementById('charCount').textContent = characters;
+            document.getElementById('paragraphCount').textContent = paragraphs;
+        }
+
+        const fileInput = document.getElementById('fileInput');
+        fileInput.addEventListener('change', function () {
+            const selectedFile = fileInput.files[0];
+            document.getElementById('selectedFile').textContent = `Selected File: ${selectedFile.name}`;
+            
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const fileContent = event.target.result;
+                analyzeTextFromFile(fileContent);
+            };
+            reader.readAsText(selectedFile);
+        });
+
+        function analyzeTextFromFile(fileContent) {
+            const words = fileContent.split(/\s+/).filter(word => word !== '');
+            const sentences = fileContent.split(/[.!?]/).filter(sentence => sentence !== '');
+            const characters = fileContent.length;
+            const paragraphs = fileContent.split('\n').filter(paragraph => paragraph !== '').length;
+
+            document.getElementById('wordCount').textContent = words.length;
+            document.getElementById('sentenceCount').textContent = sentences.length;
+            document.getElementById('charCount').textContent = characters;
+            document.getElementById('paragraphCount').textContent = paragraphs;
+        }
+
+        function refreshPage() {
+            location.reload(); // Reloads the page
+        }
+    </script><br /><br /><br /><br />
+  
+  
+<p>In today's fast-paced digital world, efficiency and accuracy are essential. Whether you're a student working on an essay, a professional crafting reports, or a writer polishing your latest masterpiece, keeping track of your word count, characters, sentences, and paragraphs is a task that can sometimes feel tedious. But fear not, because we have the solution for you - our all-in-one Word Counter Tool!</p>
+
+<h2>Introduction</h2>
+
+<p>We live in an age where information comes in various formats, from traditional text documents like DOCX and PDF to web content in HTML and CSS, and even code files like Python (PY). Sometimes, you need to count words, characters, sentences, or paragraphs in these diverse formats, and that's where our Word Counter Tool shines.</p>
+  
+  <div class="separator" style="clear: both;"><img alt="" border="0" data-original-height="600" data-original-width="1000" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLgYh0peqdth19kg4WbM__-yEwwEt2coiTfBXW7FuHdK9HaPVVt4ltNRzQCSYoOUsheAHwuau4aijHaU5oUSiM5WHQAj_lpuCqX4lih82tu-y1Xjw23aFr6nKDXRCyDnXD2VjeOrVGSqzhitVJ-wgAOQWL-bXnNuCOBsD8KqXdqopTJTemdP3cC8S7fum1/s1600/PASSWORD%20GENERATOR%20%284%29.png" /></div>
+
+<h2>Why Our Word Counter Tool?</h2>
+
+<h3>1- Versatility at Its Best</h3>
+
+<p>Our Word Counter Tool stands out because of its versatility. It accepts a wide range of file types, including DOCX, PDF, HTML, CSS, Python (PY), EPUB, TXT, and more. You no longer have to waste time copying and pasting text; simply upload your file, and let our tool do the heavy lifting.</p>
+
+<h3>2- Instant Results</h3>
+
+<p class="paragraph">With just one click, you'll get instant results. The tool provides you with accurate word counts, character counts (with and without spaces), sentence counts, and paragraph counts. This not only saves you time but also ensures your documents meet specific requirements, such as word limits for assignments or articles.</p>
+
+<h3>3- User-Friendly Interface</h3>
+
+<p>We understand that not everyone is a tech expert, which is why we've designed our tool with user-friendliness in mind. The interface is intuitive and easy to navigate, making it accessible to all users, regardless of their technical background.</p>
+
+<h3>4- Secure and Private</h3>
+
+<p>Your privacy and data security are our top priorities. You can use our Word Counter Tool with confidence, knowing that your documents are processed securely, and we do not store any of your uploaded content.</p>
+
+<h2>How to Use Word Counter Tool</h2>
+<p class="paragraph">1- Click on the "Upload File" button.</p>
+<p class="paragraph">2- Select the document type (e.g., DOCX, PDF, TXT, etc.).</p>
+<p class="paragraph">3- Or choose the file you want to analyze.</p>
+<p class="paragraph">4- Click "Count"</p>
+<p class="paragraph">5- Within seconds, you'll receive a detailed report of your document's word count, character count, sentence count, and paragraph count.</p>
+
+<h2>Conclusion</h2>
+
+<p class="paragraph">In a world where time is of the essence, our Word Counter Tool is your go-to solution for all your word-counting needs. Say goodbye to manual counting and hello to efficiency and accuracy. Whether you're a tech expert or a beginner, our tool is designed to simplify your life and help you excel in your writing endeavors.</p>
+
+<p class="paragraph">Try our Word Counter Tool today and experience the difference for yourself. Counting words has never been this easy and convenient!</p>
+
+<p class="paragraph">Feel free to use this article as a starting point, and customize it further to highlight any unique features or aspects of your Word Counter Tool that you'd like to emphasize.</p>
+  
+  
+</body>
+</html>
