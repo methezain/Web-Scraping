@@ -3,17 +3,15 @@ import requests
 import time
 
 def find_jobs():
-    webpage = requests.get('https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=ft&searchTextText=&txtKeywords=python&txtLocation=', 'lxml').text 
+    webpage = requests.get('https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=ft&searchTextText=&txtKeywords=python&txtLocation=', 'r').text 
 
-    soul = BeautifulSoup(webpage , 'lxml') 
+    soup = BeautifulSoup(webpage , 'lxml') 
 
-    jobs = soul.find_all('li', class_='clearfix job-bx wht-shd-bx')
-
-    jobs_list = []
+    jobs = soup.find_all('li', class_='clearfix job-bx wht-shd-bx') 
 
     print("Enter skill you are unfimiliar with (i.e linux, database)")  
     unfimiliar_skills = input('>').lower()
-    print(f"Filtering our {unfimiliar_skills}")
+    print(f"Filtering out {unfimiliar_skills}")
 
     for index, job in enumerate(jobs):
         date_published = job.find('span', class_='sim-posted').span.text
