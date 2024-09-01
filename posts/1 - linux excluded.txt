@@ -1,4 +1,4 @@
 Company Name : virtusa-consulting-services-pvt.-ltd.
-Job Location : 
-Skills Required : python ,  javascript ,  sql ,  restful web services ,  system design , css, git, html
-Job Link : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-3-to-5-yrs-jobid-pVT1BiWg5ERzpSvf__PLUS__uAgZw==&source=srp
+Job Location : Pune
+Skills Required : python programming ,  data analysis ,  data visualization ,  database management ,  requirements gathering , data mining, sql
+Job Link : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-pune-6-to-9-yrs-jobid-Reaxnq7jZr9zpSvf__PLUS__uAgZw==&source=srp

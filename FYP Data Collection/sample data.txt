@@ -1,0 +1,43 @@
+Case 1:
+Case ID: 2001
+Date Filed: 2024-08-01
+Client Name: Ahmad Ali
+Opponent Name: Sara Ahmad
+Relationship: Married
+Issue Type: Divorce, Custody
+Summary: "After 8 years of marriage, Ahmad and Sara are seeking a divorce due to personal differences. Custody of their two children is contested."
+Evidence: ["Text messages", "Email exchanges", "Witness statements"]
+Witnesses: ["Kamran Bijli: Family friend, supports Ahmad's claim", "Hina Altaf: Sara’s sister, supports Sara's claim"]
+Legal Precedents: ["Case 3021: Divorce involving children"]
+Court: "Lahore Family Court"
+Judge Name: "Judge Iqbal Hussain"
+Outcome: "Pending"
+Appeal: "No"
+
+Case 2:
+Case ID: 2002
+Date Filed: 2024-07-20
+Client Name: Maria Khan
+Opponent Name: Bilal Khan
+Relationship: Married
+Issue Type: Maintenance
+Summary: "Maria is filing for increased maintenance payments citing Bilal’s recent financial gains and increased living costs."
+Evidence: ["Salary slips of Bilal", "School fees receipts", "House rent agreement"]
+Witnesses: ["Faiza Riaz: Childcare provider, commentary on children’s needs", "Tahir Mehmood: Accountant, financial analysis"]
+Legal Precedents: ["Case 4100: Maintenance adjustment"]
+Court: "Karachi Family Court"
+Judge Name: "Judge Farah Adeel"
+Outcome: "Pending"
+Appeal: "No"
+
+
+1- https://pakistanlegalresearch.com/family-law/
+
+2- https://caselaw.shc.gov.pk/caselaw/public/home
+
+3- https://www.pja.gov.pk/familylawsordinance
+
+4- https://mis.ihc.gov.pk/frmSrchOrdr 
+ 
+5- https://www.supremecourt.gov.pk/downloads_judgements/c.p._5601_2021.pdf
+

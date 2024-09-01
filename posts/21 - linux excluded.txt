@@ -1,4 +1,4 @@
-Company Name : innefu-labs-pvt.-ltd.
-Job Location : Delhi,  Delhi/NCR
-Skills Required : python, database, django, neo4j, mining, web crawling
-Job Link : https://www.timesjobs.com/job-detail/python-developer-innefu-labs-pvt-ltd-delhi-delhi-ncr-4-to-5-yrs-jobid-NDHne__PLUS__ysOChzpSvf__PLUS__uAgZw==&source=srp
+Company Name : CONNECTING-2-WORK
+Job Location : Thiruvananthapuram
+Skills Required : security compliance, python, html5, mobile, javascript, database, django, debugging
+Job Link : https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-thiruvananthapuram-0-to-3-yrs-jobid-6__SLASH__snZ2pfOutzpSvf__PLUS__uAgZw==&source=srp

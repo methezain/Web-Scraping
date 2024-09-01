@@ -1,4 +1,4 @@
-Company Name : websharan-infotech
-Job Location : Pune
-Skills Required : python, problem solving, software project, software engineering
-Job Link : https://www.timesjobs.com/job-detail/python-developer-websharan-infotech-pune-0-to-3-yrs-jobid-Ujq9FCZjPgtzpSvf__PLUS__uAgZw==&source=srp
+Company Name : CONNECTING-2-WORK
+Job Location : Thiruvananthapuram
+Skills Required : python, storage, django, testing tools, debugging
+Job Link : https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-thiruvananthapuram-5-to-10-yrs-jobid-15ymTnn475xzpSvf__PLUS__uAgZw==&source=srp

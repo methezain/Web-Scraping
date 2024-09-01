@@ -1,4 +1,4 @@
-Company Name : 3RI-Technologies-Pvt-Ltd
+Company Name : websharan-infotech
 Job Location : Pune
-Skills Required : python, database, security, django, git, mobile
-Job Link : https://www.timesjobs.com/job-detail/python-developer-3ri-technologies-pvt-ltd-pune-0-to-1-yrs-jobid-S9R7triGKgpzpSvf__PLUS__uAgZw==&source=srp
+Skills Required : python, problem solving, software project, software engineering
+Job Link : https://www.timesjobs.com/job-detail/python-developer-websharan-infotech-pune-0-to-3-yrs-jobid-Ujq9FCZjPgtzpSvf__PLUS__uAgZw==&source=srp

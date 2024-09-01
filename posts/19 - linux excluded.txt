@@ -1,4 +1,4 @@
 Company Name : AxisTechnolabs
 Job Location : Ahmedabad
-Skills Required : python, css, user interaction, bootstrap, openerp, database, xml, oops, html
-Job Link : https://www.timesjobs.com/job-detail/python-developer-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-PsOJajnMnFFzpSvf__PLUS__uAgZw==&source=srp
+Skills Required : python, django, it skills, html5, api, jquery
+Job Link : https://www.timesjobs.com/job-detail/python-odoo-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-Zbmf2OtDaBxzpSvf__PLUS__uAgZw==&source=srp
