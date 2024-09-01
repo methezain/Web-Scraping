@@ -48,8 +48,8 @@ for link in cases_links:
 
         case_data = driver.page_source
         with open(rf'{files_path}\case_{file_no}.html', 'w', encoding='utf-8') as f:
-            f.write(case_data)
-        file_no += 1
+            f.write(case_data) 
+        file_no += 1 
     except Exception as e:
         print(e)
     time.sleep(1) 
