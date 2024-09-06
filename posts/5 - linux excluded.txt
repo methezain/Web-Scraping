@@ -1,4 +1,0 @@
-Company Name : LAKSH-HUMAN-RESOURCE
-Job Location : Mumbai
-Skills Required : rest, python, django, git
-Job Link : https://www.timesjobs.com/job-detail/python-developer-laksh-human-resource-mumbai-1-to-3-yrs-jobid-uUEqcx71MRdzpSvf__PLUS__uAgZw==&source=srp

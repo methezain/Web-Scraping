@@ -1,4 +1,0 @@
-Company Name : DREAMAJAX-TECHNOLOGIES
-Job Location : Bengaluru / Bangalore
-Skills Required : python, django, api, sql, nosql
-Job Link : https://www.timesjobs.com/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-55iKtddZNCdzpSvf__PLUS__uAgZw==&source=srp

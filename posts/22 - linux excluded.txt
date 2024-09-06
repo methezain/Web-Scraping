@@ -1,4 +1,0 @@
-Company Name : Squareboat
-Job Location : Gurgaon
-Skills Required : python, html5, problem solving, javascript, security, django, debugging
-Job Link : https://www.timesjobs.com/job-detail/python-developer-squareboat-gurgaon-1-to-4-yrs-jobid-AgNqUBQO5hpzpSvf__PLUS__uAgZw==&source=srp

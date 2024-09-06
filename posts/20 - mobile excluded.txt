@@ -1,4 +1,0 @@
-Company Name : Techasoft-Pvt-Ltd
-Job Location : Bengaluru / Bangalore
-Skills Required : python, javascript, docker, django, postgresql, oops, mysql, mongodb, opencv
-Job Link : https://www.timesjobs.com/job-detail/python-developer-techasoft-pvt-ltd-bengaluru-bangalore-0-to-3-yrs-jobid-5N2k__SLASH__MAUe6tzpSvf__PLUS__uAgZw==&source=srp
