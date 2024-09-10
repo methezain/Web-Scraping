@@ -1,0 +1,1714 @@
+ORDER SHEET
+IN THE ISLAMABAD HIGH COURT, ISLAMABAD 
+JUDICIAL DEPARTMENT 
+
+F.A.O.No.88 of 2015 
+National Highway Authority  
+
+VS           
+
+M/s China Petroleum Engineering Corporation 
+
+Date of Hearing: 
+Appellant by: 
+Respondent by: 
+_________________________________________________________ 
+
+22.03.2016 
+Mr. Zahid Idrees Mufti, Advocate 
+Syed Ishtiaq Haider, Advocate 
+
+MIANGUL  HASSAN  AURANGZEB,  J:-  Through  the 
+
+instant appeal under Section 39 of the Arbitration Act, 1940 
+
+("the 1940 Act"), the appellant, National Highway Authority, 
+
+impugns  the  judgment  &  decree  dated  20.04.2015,  passed 
+
+by  the  Court  of  learned  Civil  Judge  (West)  Islamabad, 
+
+dismissing 
+
+the  appellant's  Objection  Petition  under 
+
+Sections  30  and  33  of  the  1940  Act  against  the  arbitration 
+
+award dated 25.06.2007, and making the said award a rule 
+
+of Court. 
+
+2. 
+
+The facts essential for the disposal of this appeal are 
+
+that  on  06.04.1993,  the  appellant  and  the  respondent  (M/s 
+
+China  Petroleum  Engineering  Corporation)  entered  into  a 
+
+contract  for  the  construction  of  additional  carriageway 
+
+(Chablat  -  Nowshera,  Section  N-5)  (“the  Contract”).  Under 
+
+the  terms  of  the  said  contract,  M/s  A.A.  Associates, 
+
+Planners  and  Consulting  Engineers  was  appointed  as  the 
+
+Engineer  for  the  Project.  Under  the  terms  of  the  Contract, 
+
+the  respondent  and  the  Engineer  worked  out  a  Job-Mix 
+
+Formula  ("JMF").  The  contract  provided  for  the  use  of  an 
+
+asphalt additive called Cellulose Fibers in the asphalt base 
+
+course  mix.  Subsequently,  after  discussions  between  the 
+
+appellant, the respondent and the Engineer, it was decided 
+
+not to add Cellulose Fibers in the asphalt base course mix. 
+
+Therefore,  the  JMF  jointly  worked  out  by  respondent  and 
+
+the Engineer did not include the use of Cellulose Fibers.  
+
+ 3. 
+
+Vide letter dated 11.06.2001, the appellant instructed 
+
+its  officers  to  recover  an  amount  of  Rs.31.200  Million  from 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+2 
+
+F.A.O. No.88 of 2015 
+
+the respondent for not using Cellulose Fibers in the asphalt 
+
+base  course  mix  in  the  road  works.  Aggrieved  by  the  said 
+
+instructions of the appellant, the respondent, in accordance 
+
+with  clause  67  of  the  contract,  raised  this  dispute  with  the 
+
+Engineer  vide  letters  dated  11.08.2001,  30.08.2001  and 
+
+14.09.2001.  The  Engineer  vide  letter  dated  02.10.2001 
+
+expressed  its  inability  to  give  a  decision  on  the  matter.  As 
+
+the Engineer did not give any decision, the respondent, vide 
+
+notice  dated  16.01.2002,  requested  the  appellant  to  have 
+
+this matter resolved through arbitration in accordance with 
+
+clause 67 of the Contract. The appellant was also requested 
+
+to  concur  in  the  appointment  of  a  sole  arbitrator  for  this 
+
+purpose.  At  this  stage,  it  is  pertinent  to  reproduce  herein 
+
+below the said clause 67 of the contract:-  
+
+"67.  Settlement of Disputes 
+
+67.1  Engineer's Decision  
+
+If a dispute of any kind whatsoever arises between 
+the Employer and the Contractor in connection with, or 
+arising out of the contract or the execution of the Works, 
+whether during the execution of the Works or after their 
+completion and whether before or after repudiation or 
+other termination of the Contract, including any dispute as 
+to any opinion, instruction, determination, certificate or 
+valuation of the Engineer, the matter in dispute shall, in 
+the first place, be referred in writing to the engineer, with 
+a copy to the other party. Such reference shall state that it 
+is made pursuant to this Clause. No later than the eighty-
+fourth day after the day on which he received such 
+reference the Engineer shall give notice of his decision to 
+the Employer and the Contractor. Such decision shall 
+state that it is made pursuant to this Clause. 
+
+Unless the Contract has already been repudiated or 
+terminated, the Contractor shall, in every case, continue 
+to proceed with the Works with all due diligence and the 
+Contractor and the Employer shall give effect forthwith to 
+every such decision of the Engineer unless and until the 
+same shall be revised, as hereinafter provided, in an 
+amicable settlement or an arbitral award.  
+
+If  either  the  Employer  or  the  Contractor  be 
+dissatisfied with any decision of the Engineer or if the 
+Engineer fails to give notice of his decision on or before 
+the eighty-fourth day after the day on which he received 
+the reference, then either the Employer or the Contractor 
+may, on or before the seventieth day after the day on 
+which he received notice of such decision, or on or before 
+the seventieth day after the day on which the said period 
+of 84 days expired, as the case may be, give notice to the 
+other party, with a copy for information to the engineer, of 
+his  intention  to  commence  arbitration,  as  hereinafter 
+provided as to the matter in dispute. Such notice shall 
+establish the entitlement of the party giving the same to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+3 
+
+F.A.O. No.88 of 2015 
+
+commence arbitration, as hereinafter provided, as to such 
+dispute and, subject to Sub-Clause 67.4, no arbitration in 
+respect thereof may be commenced unless such notice is 
+given. 
+
+If the Engineer has given notice of his decision as to 
+a matter in dispute to the Employer and the Contractor 
+and no notification of intention to commence arbitration 
+as to such dispute has been given by either the Employer 
+or the Contractor on or before the seventieth day after the 
+day on which the parties received notice as to such 
+decision  from  the  Engineer,  the  said  decision  shall 
+become final and binding upon the Employer and the 
+Contractor.  
+
+67.2. Amicable Settlement 
+   Where notice of intention to commence arbitration 
+as to a dispute has been given in accordance with Sub-
+Clause 67.1, arbitration of such dispute shall not be 
+commenced unless an attempt has first been made by the 
+parties to settle such dispute amicably. Provided that, 
+unless the parties otherwise agree, arbitration may be 
+commenced on or after the fifth-sixth day after the day on 
+which notice of intention to commence arbitration of such 
+dispute  was  given,  whether  or  not  any  attempt  at 
+amicable settlement thereof has been made. 
+
+the decision if any, of the Engineer has not become 
+
+67.3. Arbitration  
+ Any dispute in respect of which:-  
+ a) 
+final and binding pursuant to Sub-Clause 67.1, and  
+ b)  amicable settlement has not been reached within 
+the period stated in Sub-Clause 67.2, and shall be finally 
+settled, unless otherwise specified in the Contract, under 
+the  Rules  of  Conciliation  and  Arbitration  of  the 
+International Chamber of Commerce  by one or more 
+arbitrators  appointed  under  such  Rules.  The  said 
+arbitrator(s) shall have full power to open up, review and 
+revise any decision, opinion, instruction, determination, 
+certificate or valuation of the Engineer related to the 
+dispute.  
+
+Neither party shall be limited in the proceedings 
+before such arbitrator(s) to the evidence or arguments 
+put before the Engineer for the purpose of obtaining his 
+said  decision  pursuant  to  Sub-Clause  67.1.  No  such 
+decision shall disqualify the Engineer from being called as 
+a witness and giving evidence before the arbitrator(s) on 
+any matter whatsoever relevant to the dispute.  
+
+Arbitration may be commenced prior to or after 
+completion of the works, provided that the obligations of 
+the Employer, the Engineer and the Contractor shall not 
+be altered by reason of the arbitration being conducted 
+during the progress of the Works.  
+
+ 67.4  Failure to Comply with Engineer's Decision 
+   Where neither the Employer nor the Contractor has 
+given notice of intention to commence arbitration of a 
+dispute within the period stated in Sub-Clause 67.1 and 
+the related decision has become final and binding, either 
+party may, if the other party fails to comply with such 
+decision, and without prejudice to any other rights it may 
+have, refer the failure to arbitration in accordance with 
+Sub-Clause 67.3. The provisions of sub-Clauses 67.1 and 
+
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+4 
+
+F.A.O. No.88 of 2015 
+
+67.2 shall not apply to any such reference." (emphasis 
+added)  
+
+4. 
+
+These  were  the  circumstances  in  which  the 
+
+respondent 
+
+filed  W.P.No.2978/2001  before 
+
+the 
+
+Hon'ble  Lahore  High  Court,  Rawalpindi  Bench, 
+
+against  the  appellant's  said  notice dated  11.06.2001. 
+
+The  prayer-clause 
+
+in 
+
+the  said  writ  petition 
+
+is 
+
+reproduced herein below:- 
+
+"It is, therefore, prayed that the impugned order 
+dated 11.06.2001 be declared to be void, illegal, 
+without lawful authority and consequently of no legal 
+effect. It is further prayed that the respondent be 
+restrained  from  making  any  recovery  from  the 
+petitioner on the basis of the impugned order till 
+final order on this petition." 
+
+ 5. 
+
+Vide  order  dated  24.09.2001,  the  Hon'ble  High 
+
+Court restrained recoveries from the respondent until 
+
+the  next  date.  This  matter  was  adjourned  on  a 
+
+number  of  occasions  without  specifically  extending 
+
+the  operation  of  the  said  ad-interim  relief.  However, 
+
+on  25.02.2004,  it  was  ordered  that  the  operation  of 
+
+the stay order will continue till the decision of the writ 
+
+petition.  Vide  order  dated  30.03.2004,  the  said  writ 
+
+petition was disposed of in the following terms:-  
+
+"Mian  Saif-ur-Rehman,  Advocate,  learned 
+counsel  for  the  respondent-  National  Highway 
+Authority  states  that  the  respondent  National 
+Highway authority will strictly follow the terms of the 
+contract. Their right of deduction will be subjected 
+to  a  decision  by  the  arbitrator.  Meanwhile,  no 
+recovery shall be effected from the petitioners. In 
+case the matter is not referred to the arbitration the 
+National Highway authority can proceed for the 
+recovery, certainly, in accordance with the terms of 
+the contract. Disposed of with agreement of the 
+learned counsel for the parties."  
+
+ 6. 
+
+On  28.04.2004, 
+
+the 
+
+respondent 
+
+filed  an 
+
+application  under  Section  8  of  the  1940  Act  before 
+
+the  Court  of  learned  Civil  Judge  Islamabad,  praying 
+
+for  the  appointment  of  an  arbitrator  in  accordance 
+
+with  the  provisions  of  the  1940  Act  as  envisaged  in 
+
+the contract dated 06.04.1993. The dispute which the 
+
+respondent  wanted  to  be  referred  to  arbitration  was 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+5 
+
+F.A.O. No.88 of 2015 
+
+whether  Rs.31.200  Million  or  any  lesser  amount  was 
+
+recoverable by the appellant from the respondent on 
+
+account  of  not  using  Cellulose  Fibers  in  the  asphalt 
+
+base course mix in the road works. Vide order dated 
+
+22.04.2006,  the  learned  Civil  Court,  appointed  Brig. 
+
+Safdar  Hussain  Awan  as  a  sole  arbitrator  and 
+
+referred the matters in dispute between the appellant 
+
+and  the  respondent  for  his  determination.  The 
+
+learned  sole  arbitrator  is  said  to  have  received  the 
+
+said  order  of  the  learned  civil  court  on  10.05.2006. 
+
+Vide  a  detailed  and  well  reasoned  arbitration  award 
+
+dated 25.06.2007, the learned sole arbitrator decided 
+
+the disputes referred to him in inter alia the following 
+
+terms:- 
+
+"48.  Having taken into consideration all the facts, 
+evidence and arguments, I am firmly of the opinion 
+that the claims of NHA against CPECC, HCL and 
+SKB, respectively amounting to Rs.31.200 Million, 
+Rs.206.632  Million  and  Rs.80.446  Million,  are 
+barred by time and hence not recoverable. None of 
+the parties had claimed the costs, hence none is 
+payable to any.  
+49.  ….  NHA,  at  its  end,  may  look  into  the 
+circumstances under which it has suffered financial 
+loss on account of inability to recover amount from 
+the three concerned contractors for non use of 
+Cellulose Fibre in the Asphaltic Base Course, and 
+how did it fail to raise its claims even after 11 June 
+2001 when it eventually did become alive to its 
+entitlement and when it would have been quite in 
+time to do so. Factually, the recoveries on account 
+of non use of Cellulose Fibre should have been 
+affected right with effect from the time that the first 
+running  payment  for  laying  of  Asphaltic  Base 
+Course was made in case of each of the seven 
+contracts, which was at a time around 1995." 
+
+ 7. 
+
+On  08.10.2007,  the  appellant  filed  an  objection 
+
+petition  under  Sections  30  and  33  of  the  1940  Act 
+
+before  the  learned  civil  court  and  prayed  for  the 
+
+setting  aside  of 
+
+the  arbitration  award  dated 
+
+25.06.2007.  Vide 
+
+judgment  &  decree  dated 
+
+20.04.2015, the learned civil court dismissed the said 
+
+objection  petition  and  made  the  arbitration  award 
+
+dated 25.06.2007 a rule of Court. Furthermore, it was 
+
+held  that  Rs.31.200  Million  or  a  lesser  amount  is  not 
+
+ 
+ 
+  
+ 
+6 
+
+F.A.O. No.88 of 2015 
+
+recoverable by the appellant from the respondent on 
+
+account of non-use  of Cellulose  Fibers  in the asphalt 
+
+base  course  mix.  It  is  against  the  said  judgment  & 
+
+decree  dated  20.04.2015  that  the  appellant  has 
+
+preferred the instant appeal. 
+
+ 8. 
+
+Learned  counsel  for  the  appellant  submitted 
+
+that  the  learned  trial  court  erred  by  passing  a 
+
+judgment  &  decree  in  terms  of  the  arbitration  award 
+
+dated  25.06.2007  and  dismissing  the  appellant's 
+
+objections under Sections 30 and 33 of the 1940 Act; 
+
+that  the  learned  arbitrator  had  erred  by  holding  that 
+
+the  appellant’s  claim  was  barred  by  time;  that  the 
+
+Hon'ble  Lahore  High  Court  had  restrained  the 
+
+appellant  from  recovering  Rs.31.200  Million  from  the 
+
+respondent for not using Cellulose Fibers in the road 
+
+works; that the period between 24.09.2001 (when the 
+
+injunctive  order  was  passed)  and  30.03.2004  (when 
+
+writ petition No.2978/2001 was disposed of) has to be 
+
+discounted  and  excluded  from  the  limitation  period 
+
+for  instituting  proceedings  for  the  recovery  of  the 
+
+said amount; that the learned trial court had erred by 
+
+not  giving  the  appellant  the  benefit  of  Section  15  of 
+
+the  Limitation  Act,  1908;  that  the  learned  arbitrator 
+
+did  not  decide  the  claim  of  the  appellant  on  merits 
+
+and unlawfully spurned it as barred by time; that even 
+
+if the  appellant had not sought  the benefit  of Section 
+
+15  of  the  Limitation  Act,  1908,  in  the  proceedings 
+
+before  the  learned  arbitrator  and  the  learned  Trial 
+
+Court,  the  same  should  have  been  nonetheless 
+
+extended  to  him;  that  even  without  an  objection 
+
+petition,  it  was  obligatory  upon  the  learned  Trial 
+
+Court to scrutinize the arbitration award to see that it 
+
+does  not  suffer  from  any  invalidity.  In  making  these 
+
+submissions,  the  learned  counsel  for  the  appellant 
+
+placed  reliance  on  the  cases  of  A.  Qutubuddin  Khan 
+
+VS  Chec  Millwala  Dredging  Co.  (Pvt.)  Ltd.  Steel 
+
+House,  Karachi  (PLJ  2014  SC  950),  North-West 
+
+ 
+ 
+7 
+
+F.A.O. No.88 of 2015 
+
+Frontier  Province  Government,  Peshawar  through 
+
+Collector, Abbotabad and another VS Abdul Ghafoor 
+
+Khan  through  Legal  Heirs  and  two  others  (PLD  1993 
+
+SC  418),  M/s.  Awan  Industries  Ltd  VS  The  Executive 
+
+Engineer,  Lined  Channel  Division  and  another  (1992 
+
+SCMR 65), and Kashmir Corporation Ltd VS Pakistan 
+
+International Airlines (PLD 1995 Karachi 301).  
+
+9. 
+
+Learned  counsel 
+
+for  the  appellant 
+
+further 
+
+submitted  that  the  appellant  had  filed  an  application 
+
+under Section 12 (2) C.P.C. against the judgment and 
+
+decree  dated  20.04.2015  before  the  learned  Trial 
+
+Court;  that  a  judgment  and  decree  in  terms  of  an 
+
+arbitrator  award  can  be  challenged  through  an 
+
+application  under  Section  12  (2)  C.P.C.,  if  the  same 
+
+was  vitiated  by  fraud  or  misrepresentation;  and  that 
+
+under  the  decision  of  the  learned  Trial  Court  on  the 
+
+said  application,  these  proceedings  should  either  be 
+
+stayed  or  adjourned  sine  die.    In  making  these 
+
+submissions,  the  learned  counsel  for  the  appellant 
+
+placed  reliance  on  the  cases  titled  as    Happy  Family 
+
+Associate 
+
+through  Chief  Executive  VS  Messrs 
+
+Pakistan  International  Trading  Company  (PLD  2006 
+
+SC  226),  Muhammad  Yasin  VS  Sh.  Hanif  Ahmed  and 
+
+14  others  (1993  SCMR  437),  Raja  Wali  VS  Mansha 
+
+Ahmed  (PLD  1996  Lahore  354),  and  Mrs.  Rukhsana 
+
+Parveen VS Syed Shabahat Hussain Naqvi (2007 CLC 
+
+1247).   
+
+ 10.  On  the  other  hand  learned  counsel  for  the 
+
+respondent  submitted  that  as  the  appellant  had  filed 
+
+an  application  under  Section  12(2)  C.P.C.  before  the 
+
+learned  Trial Court  against  the  judgment  and  decree 
+
+dated  20.04.2015,  he  was  precluded  from  filing  the 
+
+instant  appeal;  that  two  remedies  against  the  same 
+
+judgment and decree could not have been availed by 
+
+the  appellant;  that  on  this  score  alone,  the  appeal  is 
+
+liable  to  be  dismissed;  that  the  appeal  is  barred  by 
+
+time; that on 20.04.2015, the impugned judgment was 
+
+ 
+ 
+ 
+8 
+
+F.A.O. No.88 of 2015 
+
+passed; that on 14.05.2015, the appellant applied for 
+
+the  certified  copy  of  the  said  judgment;  that  the 
+
+certified  copy  of  the  said  judgment  is  prepared  and 
+
+delivered on 28.05.2015; that the appeal was filed on 
+
+11.07.2015;  that  an  office  objection  was  raised  on 
+
+14.07.2015, and the appeal was returned, and was re-
+
+filed  on  02.11.2015;  and  that  Article  156  of  the 
+
+Limitation Act,  1908, provides for limitation period of 
+
+ninety  days  for  an  appeal  under  Section  39  of  the 
+
+Arbitration  Act.  In  making  these  submissions,  the 
+
+learned  counsel  for  the  respondent  placed  reliance 
+
+on  the  cases  titled  as  Tanveer  Siddiqui  and  another 
+
+VS  Muhammad  Rashid  (2010  YLR  1851),  Syed 
+
+Jammat  Ali  Shah  and  others  VS 
+
+Investment 
+
+Corporation  of  Pakistan  Ltd,  Karachi  (1989  MLD 
+
+3931), Lahore Development Authority VS Muhammad 
+
+Rashid (1997 SCMR 1224), Collector Land Acquisition 
+
+Abbotabad  and  others  VS  Fazal-ur-Rehman  and 
+
+others  (2009  SCMR  767),  and  Province  of  Punjab 
+
+through 
+
+Secretary, 
+
+Local  Government 
+
+and 
+
+Community  Development,  Lahore  and  three  others 
+
+(2014 CLC 417). 
+
+11.  On  the  merits  of  the  case,  learned  counsel  for 
+
+the  respondent  submitted  that  vide  interim  order 
+
+dated  24.09.2001,  passed  in  W.P.No.2978/2001,  the 
+
+Hon'ble  Lahore  High  Court  had  restrained  the 
+
+appellant 
+
+from  making 
+
+recoveries 
+
+from 
+
+the 
+
+respondent, but had not restrained the appellant from 
+
+instituting  legal  proceedings  for  the  recovery  of 
+
+Rs.31.200  Million  due  to  the  Cellulose  Fibers  not 
+
+being used by the respondent in the road works; that 
+
+on  28.04.2004,  it  was  the  respondent  who  filed  an 
+
+application  under  Section  8  of  the  1940  Act  for  the 
+
+reference  of  the  said  dispute  to  arbitration;  that  the 
+
+perusal  of  the  arbitration  award  reveals  that  the 
+
+learned  arbitrator  was  cognizant  of  the  said  orders 
+
+dated  24.09.2001  and  30.03.2004,  passed  by  the 
+
+ 
+ 
+9 
+
+F.A.O. No.88 of 2015 
+
+Hon'ble Lahore High Court in W.P.No.2987/2001; that 
+
+the 
+
+learned  arbitrator  had  framed  an 
+
+issue  on 
+
+whether  the  NHA's  claim  is  maintainable  and  time 
+
+barred;  that  this  issue  was  decided  against  the 
+
+appellant  and  its  claim  was  held  to  be  time  barred; 
+
+that  the  arbitration  award 
+
+is  detailed  and  well 
+
+reasoned  and  called  for  no  interference  by  the 
+
+learned trial court; that as the learned arbitrator had 
+
+not  committed  any  misconduct  in  the  arbitration 
+
+proceedings, 
+
+the 
+
+learned 
+
+trial  court  correctly 
+
+dismissed  the  appellant's  objections  against  the 
+
+arbitration  award  dated  25.06.2007,  by  passing  a 
+
+judgment & decree in terms thereof.  In making these 
+
+submissions,  the  learned  counsel  for  the respondent 
+
+placed  reliance  on  the  cases  of  National  Highway 
+
+Authority  VS  Zarghoon  Enterprises  (Pvt.)  Ltd  (2015 
+
+MLD  746),  Mian  Corporation  through  Managing 
+
+Partner  VS  Messrs  Lever  Brothers  of  Pakistan  Ltd 
+
+through  General  Sales  Manager,  Karachi  (PLD  2006 
+
+SC  169),  Muhammad  Farooq  Shah  VS  Shakirullah 
+
+(2006  SCMR  1657),  Pakistan  Steel  Mills  Corporation, 
+
+Karachi  VS  Messrs  Mustafa  Sons  (Pvt.)  Ltd,  Karachi 
+
+(PLD  2003  SC  301),  and  Federation  of  Pakistan 
+
+through  Secretary,  Ministry  of  Food,  Islamabad  and 
+
+others  VS  Messrs.  Joint  Venture  Kocks  K.G./RIst 
+
+(PLD 2011 SC 506).  
+
+12. 
+
+In  rejoinder,  the 
+
+learned  counsel 
+
+for  the 
+
+appellant  submitted  that  no  notice  had  been  issued 
+
+by the office to the appellant or its counsel regarding 
+
+the  office  objection;  and  that  the  office  did  not 
+
+indicate a date by which the office objections were to 
+
+be removed and the appeal re-filed. Learned counsel 
+
+placed  reliance  on  the  cases  of  Province  of  Punjab 
+
+through District Collector Lodhran and six others VS 
+
+Muhammad  Khalid  Khan  (2005  CLC  1083),  and  Mst. 
+
+Sabiran Bi VS Ahmad Khan and another (2000 SCMR 
+
+847).  
+
+ 
+ 
+10 
+
+F.A.O. No.88 of 2015 
+
+13. 
+
+I  have  heard  the  arguments  of  the  learned 
+
+counsel  for  the  parties  and  have  perused  the  record 
+
+with their able assistance.  
+
+14. 
+
+I propose first to deal  with the  objection  raised 
+
+by  the  learned  counsel  for  the  respondent  that  the 
+
+appeal filed by the appellant was barred by time. The 
+
+learned  counsel  for  the  contesting  parties  were  in 
+
+agreement  that  the  limitation  period  for  an  appeal 
+
+under  Section  39  of  the  1940  Act  is  ninety  days 
+
+computed  from  the  date  of  the  order  appealed  from. 
+
+The  judgment  and  decree  impugned  in  the  appeal 
+
+was passed on 20.04.2015. The record shows that the 
+
+appellant applied for its certified copy on 14.05.2015. 
+
+This  copy  was  prepared  and  delivered  to  the 
+
+appellant  on  28.05.2015.  The  appeal  was  filed  on 
+
+11.07.2015, and was returned with an office objection 
+
+on  14.07.2015.  This  appeal  was  then  re-filed  on 
+
+02.11.2015.  Now,  if  the  period  between  14.07.2015 
+
+(when the office objection was raised and the appeal 
+
+returned)  and  02.11.2015  (when  the  appeal  was  re-
+
+filed)  is  not  excluded,  the  appeal  would  certainly  be 
+
+barred  by  time.  Perusal  of  the office objection  (Diary 
+
+No.942/2015)  dated  14.07.2015 
+
+issued  by 
+
+the 
+
+Assistant Registrar and Deputy Registrar (Judicial) of 
+
+this  Court  reveals  that  the  office  did  not  stipulate  a 
+
+period  within  which  the  office  objections  have  to  be 
+
+removed.  The  period  within  which 
+
+the  office 
+
+objections were required to be removed has been left 
+
+blank. The office objections taken are (1) that page 7 
+
+of  the  petition  has  to  be  re-typed  because  it  is  not 
+
+legible due  to  cutting  and  correction,  (2)  that  the  file 
+
+is  not  arranged  according  to  the  index/rules  and  (3) 
+
+that the attested power of attorney had not been filed. 
+
+Now,  it  is  not  disputed  that  originally  the appeal was 
+
+filed  within 
+
+time.  The  above  mentioned  office 
+
+objections  are  not  such  as  would  render  the  very 
+
+appeal  incompetent.  In  other  words,  as  per  these 
+
+ 
+ 
+11 
+
+F.A.O. No.88 of 2015 
+
+office  objections,  the  appeal  did  not  suffer  from  any 
+
+fatal defect. These objections were at best ministerial 
+
+in  nature.  As  the  appeal  was  originally  filed  within 
+
+time  but  was  deficient  in  some  respects,  and  these 
+
+deficiencies were cleared by the appellant before re-
+
+filing the appeal, the appeal cannot be held to be time 
+
+barred particularly when the office did not indicate a 
+
+time within which the deficiencies had to be cleared. I 
+
+feel  that  the  appellant  cannot  be  penalized  for  the 
+
+inaction  of  the  office  by  not  fixing  a  period  within 
+
+which  the  office  objections  were  required  to  be 
+
+removed.  The  record  is  also  silent  as  to  any  notice 
+
+issued by the office to the appellant for the removal of 
+
+the office objections.    
+
+15. 
+
+In  the  case  of  Mst.  Sabiran  Bi  VS  Ahmad  Khan 
+
+and  another  (2000  SCMR  847),  it  has  been  held  as 
+
+follows:- 
+
+“Thus, in view of above discussions we are inclined 
+to hold that once a suit, appeal or revision has been 
+presented  before  the  authorized  officer  of  the 
+Court within the prescribed period of limitation, it 
+cannot be treated barred by time for the reason 
+that the office has noted defects in the proceedings 
+which have not been removed by the concerned 
+party or his Advocate, and in such-like situation the 
+Presiding Officer of the Court at the best can 
+consider the maintainability of proceedings in view 
+of the provisions of Order VII, Rule II or identical 
+provisions available in the Code of Civil Procedure 
+or  the  law  under  which  the  proceedings were 
+instituted.  It  is  also  important  to  note  that 
+parties/Advocates are also not absolved from their 
+duty to remove the office objections within the 
+stipulated  period  prescribed  by  the  concerned 
+authorized  officer  subject  to  the  condition  that 
+specific notice has been served upon the party or 
+Advocate to do the needful. Even if after notice the 
+defect is not removed the case shall be listed for 
+non-prosecution before the Presiding Officer who 
+may in his discretion allow time to comply with 
+objections of office.” 
+
+ 16. 
+
+In the case of Farman Ali VS Muhammad Ishaq 
+
+&  others  (PLD  2013  SC  392),  it  has  been  held  as 
+
+follows:- 
+
+"6.  The upshot of the above discussion is, that 
+where a revision petition has been filed within time, 
+but  the  office  objection(s)  points  out  certain 
+
+ 
+ 
+ 
+ 
+12 
+
+F.A.O. No.88 of 2015 
+
+deficiencies in respect of the institution, for all 
+intents and purposes, it shall be deemed to have 
+been instituted within the period of limitation and 
+where the petitioner does not remove the office 
+objections and make up the deficiencies in the time 
+provided by the office, the matter shall be placed 
+before the Court on the judicial  side and the Court 
+shall  decide  about  the  fate  of  the  petition  in 
+accordance with law, and as per some of the 
+guidelines provided in the preceding part of this 
+judgment." 
+
+ 17. 
+
+In  the  case  of  Muhammad  Boota  VS  Basharat 
+
+Ali  (PLD  2014  Lahore  01),  it  has  been  held  at 
+
+paragraph 11 of the report as follows:- 
+
+"11. In view of above discussion, we are of the 
+opinion, that the appeal is originally filed within 
+prescribed limitation period but was returned due 
+to office objections which could not be removed 
+within given time and when the office objections 
+finally removed the prescribed period of limitation 
+for filing appeal elapsed, will not render the appeal 
+barred by time. In the present case, as originally 
+the appeal was filed on 20.04.2013, which was 
+within the prescribed period of limitation of 90 
+days  and  only  because  office  objection  was 
+removed on 02.05.2013, will not make the appeal 
+barred by time, therefore, preliminary objection 
+raised by the learned counsel for the respondent 
+is over ruled."  
+
+ 18. 
+
+It is only in cases where the delay in re-filing of 
+
+an appeal, after an office objection, is far in excess of 
+
+the period fixed by the office within which the appeal 
+
+is to be re-filed after clearing the objections, that the 
+
+courts  refuse 
+
+indulgence 
+
+in  entertaining  such 
+
+appeals. For instance, in the case of Commissioner of 
+
+Income Tax / Wealth Tax, Companies Zone, Islamabad 
+
+VS  M/s  Dreamland  Motels  (Pvt)  Limited  (2012  PTD 
+
+976), a delay of 2-1/2 years in re-filing the appeal was 
+
+not  condoned  by  the  Division  Bench  of  the  Hon'ble 
+
+Islamabad  High  Court,  when  the  office  had  required 
+
+the  appellant  to  remove  the  office  objection  within  a 
+
+period  of  three  days.  Similarly,  in  the  case  of  M/s 
+
+Pervez  &  Company  VS  National  Bank  of  Pakistan 
+
+reported  as 2015  CLD  972, the Division Bench of the 
+
+Hon'ble Lahore High Court did not condone a delay of 
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+13 
+
+F.A.O. No.88 of 2015 
+
+more  than  three  years  in  the  re-filing  of  an  appeal 
+
+after removing the office objections.  
+
+ 19. 
+
+In view of the above, the respondent's objection 
+
+regarding maintainability of the appeal on the ground 
+
+of limitation, is spurned.  
+
+ 20.  As  regards  the  contention  of  the 
+
+learned 
+
+counsel  for  the  appellant  that  these  proceedings 
+
+should  be  stayed  or  adjourned sine die until  the  trial 
+
+court  adjudicates  upon  the  appellant's  application 
+
+under Section 12(2) C.P.C. against  the judgment and 
+
+decree  dated  20.04.2015,  I  cannot  bring  myself  to 
+
+agree  with  the  learned  counsel  for  the  appellant  for 
+
+the simple reason that arbitration is essentially a time 
+
+and  expense  saving  device.  Paragraph  3  of  the  First 
+
+Schedule of the 1940 Act requires arbitrators to make 
+
+their  award  within  a  period  of  four  months  after 
+
+entering  on  the  reference.  The  very  purpose  of 
+
+resolution  of  disputes  through  a  domestic  tribunal 
+
+would  be  defeated  if  the  objections  to  an  arbitration 
+
+award  or  appeals  from  judgments  and  decrees  in 
+
+terms  of  the  arbitration  award  are  kept  pending 
+
+indefinitely. The Courts should make an earnest effort 
+
+to decide such objections and appeals in a time frame 
+
+lesser than the one given by law to the arbitrators to 
+
+decide a dispute. 
+
+21.  The  learned  counsel  for  the  appellant  placed 
+
+reliance  on  the  cases  of  Mrs.  Rukhsana  Parveen  VS 
+
+Syed  Shabhat  Hussain  Naqvi  reported  as  2007  CLC 
+
+1241 and Muhammad Yasin VS Sh. Hanif Ahmed and 
+
+four others reported as 1993 SCMR 437, in support of 
+
+his contention that a decree passed on the basis of an 
+
+award  cannot  be  challenged  under  Sections  30  and 
+
+33  of  the  1940  Act,  and  that  there  is  no  provision  in 
+
+the  1940  Act  for  challenging  such  a  decree  on  the 
+
+ground  that  the  same had  been  obtained  by  fraud  or 
+
+misrepresentation. 
+
+It  was  contended 
+
+that 
+
+the 
+
+appellant  could  challenge  the  judgment  and  decree 
+
+ 
+ 
+14 
+
+F.A.O. No.88 of 2015 
+
+dated  20.04.2015  in  an  application  under  Section 
+
+12(2)  C.P.C.  on  the  ground  that  it  has  been  obtained 
+
+by  fraud  or  misrepresentation.  Now,  the  question  of 
+
+the  maintainability  of  the  application  under  Section 
+
+12(2) C.P.C. filed by the appellant before the learned 
+
+Trial  Court,  is  not  before  this  Court.  The  appellant 
+
+may, should he so desire take these pleas before the 
+
+learned  Trial Court  adjudicating  upon  his  application 
+
+under  Section  12(2)  C.P.C.  It  is  not  for  this  Court  in 
+
+these proceedings to comment on the maintainability 
+
+of  such  an  application  lest  it  may  prejudice  the  case 
+
+of either party before the learned Trial Court. 
+
+ 22.  Learned  counsel 
+
+for  the  appellant  placed 
+
+reliance  on  the case of Raja  Wali  VS Mansha Ahmad 
+
+reported  as  PLD  1996  Lahore  354,  in  support  of  his 
+
+contention  that  the  mere  fact  that  the  appellant  had 
+
+filed  an  application  under  Section  12(2)  C.P.C. 
+
+against  the  judgment  and  decree  dated  20.04.2015 
+
+does  not  preclude  him  from  filing  an  appeal  against 
+
+the  said  decree.  True,  the  mere 
+
+filing  of  an 
+
+application under Section 12(2) CPC against the said 
+
+judgment  &  decree  dated  20.04.2015  would  not 
+
+render  the  instant  appeal  incompetent  but,  for  the 
+
+reasons mentioned above, this appeal cannot be kept 
+
+pending or adjourned sine die until the decision of the 
+
+appellant's application under Section 12(2) C.P.C. by 
+
+the  Trial  Court.  An  appeal  is  a  continuation  of  the 
+
+proceedings  before  the  lower  courts  and  should,  in 
+
+arbitration  matters,  be  decided  as  expeditiously  as 
+
+possible.  
+
+ 23.  Learned  counsel  for  the  appellant  also  placed 
+
+reliance  on  the  case  of  Happy  Family  Associate 
+
+through  Chief  Executive  VS  Messrs  Pakistan 
+
+International Trading Company reported as PLD 2006 
+
+Supreme  Court  226,  to 
+
+justify  the  filing  of  an 
+
+application  under  Section  12(2)  C.P.C.  as  well  as  an 
+
+appeal  against 
+
+the 
+
+judgment  &  decree  dated 
+
+ 
+ 
+15 
+
+F.A.O. No.88 of 2015 
+
+20.04.2015.  In  the  said  case,  it  was  held  that  the 
+
+application  under  Section  12(2)  C.P.C.  was  no 
+
+substitute to regular appeal or revision or review nor 
+
+such provision could be construed as something over 
+
+and above the normal modes of questioning a decree 
+
+by  way  of  an  appeal,  revision  or  review.  I  do  not see 
+
+how  the  said  judgment  comes  to  the  aid  of  the 
+
+appellant.  
+
+ 24. 
+
+I now come to the appellant’s central ground for 
+
+assailing the judgment and decree dated 20.04.2015, 
+
+viz  that  the  learned  arbitrator  should  have  given  the 
+
+appellant  the  benefit  of  Section  15  of  the  Limitation 
+
+Act,  1908,  and  excluded  the  period  during  which  the 
+
+injunctive  order  issued  by  the  Hon'ble  Lahore  High 
+
+Court remained in operation, in computing the period 
+
+within  which  the  appellant  filed  a  claim  for  the 
+
+recovery  of  Rs.31.200  Million  against  the respondent 
+
+due  to  the  non-use  of  Cellulose  Fibers  in  the  asphalt 
+
+base course mix. For ease of reference Section 15 (1) 
+
+of  the  Limitation  Act,  1908,  is  reproduced  herein 
+
+below:-  
+
+"15.  Exclusion of time during which proceedings 
+are suspended. (1) In computing the period of 
+limitation prescribed for any suit or application for 
+the  execution  of  a  decree,  the  institution  or 
+execution of which has been stayed by injunction or 
+order, the time of the continuance of the injunction 
+or order, the day on which it was issued or made 
+and the day on which it was withdrawn, shall be 
+excluded." 
+
+25.  The arbitration award dated 25.06.2007 reveals 
+
+that  in  the  arbitration  proceedings,  the  respondent 
+
+had  raised  the  objection  of  limitation  to  the  claim 
+
+made  for  the  recovery  of  money  on  account  of  the 
+
+non-use of Cellulose Fibers. The first issue framed by 
+
+the learned arbitrator was "whether the claim of NHA 
+
+raised after completion of project is maintainable or 
+
+time barred?".  The  issues  framed  were  said  to  have 
+
+been  accepted  by  the  contesting  parties  and  no 
+
+objections  were  raised  thereto.  In  view  of  the  said 
+
+ 
+ 
+ 
+16 
+
+F.A.O. No.88 of 2015 
+
+issue,  the appellant ought  to have sought the benefit 
+
+of  Section  15  of  the  Limitation  Act,  1908,  in  the 
+
+arbitration  proceedings.  This,  the  appellant  did  not 
+
+do.  
+
+ 26.  Perusal  of 
+
+the  arbitration  award  dated 
+
+25.06.2007,  and  the  appellant's  objection  petition 
+
+under  Sections  30  and  33  of  the  1940  Act  filed  on 
+
+08.10.2007,  reveal  that  the  appellant  had,  neither 
+
+before  the  learned  arbitrator  nor  before  the  learned 
+
+Trial  Court,  taken  the  plea  of  exclusion  of  the  time 
+
+during the subsistence of the injunctive order passed 
+
+by  the  Hon'ble  Lahore  High  Court  from  the  limitation 
+
+period,  under  Section  15  of  the  Limitation  Act,  1908. 
+
+The  appellant  must  now  thank  himself  for  the 
+
+unsavory consequences of this omission.  
+
+ 27.  Even  otherwise,  the  contention  of  the  learned 
+
+counsel for the appellant that the period during which 
+
+the  injunctive  relief  granted  by  the  Hon'ble  Lahore 
+
+High  Court  to  the  respondent  in  W.P.No.2978/2001, 
+
+subsisted,  should  be  excluded  from  the  limitation 
+
+period  within  which  the  appellant  could  institute 
+
+proceedings  for  the  recovery  of  Rs.31.200  Million, 
+
+has  to  be  examined  by  reading  the  order  dated 
+
+24.09.2001  as  a  whole.  This  Order  is  reproduced 
+
+herein below:-  
+
+"Grievance of the petitioner is highlighted in 
+paragraphs 10 & 11 of the writ petition which are 
+reproduced below: 
+
+"In the case of the Project the Job Mix 
+Formula jointly established by the petitioner 
+and the Engineer/Consultant did not include 
+the use of Cellulose Fibers. The petitioner 
+proceeded  to  provide/use  the  asphalt 
+concrete base course mixture for the road 
+portion of the Project. It may be pertinently 
+mentioned here that 66 km long portion of 
+the road, which has been open to traffic 
+during the last year, is in excellent condition 
+and  has  not  shown  any  bleeding/rutting 
+tendencies whatsoever.  
+  By  order  dated  11.06.2001  the 
+respondent  has  instructed  its  General 
+Managers/others  officers  to  recover 
+specified amounts from the petitioner (and 
+other contractors) for non use/non addition 
+
+ 
+ 
+ 
+ 
+17 
+
+F.A.O. No.88 of 2015 
+
+of Cellulose Fibers in the asphalt concrete 
+base course mixture. The amount ordered to 
+be recovered from the petitioner in the case 
+of the Project is Rs.31.200 million." 
+2. 
+It has been stated that after 8 year a dispute 
+has been raised with respect to the use of Cellulose 
+Fiber in asphalt along with the Job Mixer Formula. 
+Whereas the roads already constructed did not 
+suffer  from  any  bleeding  and  there  was  no 
+requirement for mixing Cellulose Fiber and that this 
+was agreed by the Engineer who had to get the 
+work  executed  along with  the  contractor.  That 
+withholding of Rs.31.200 million because of the 
+impugned order dated 11.06.2001 was an illegal 
+act. That even if the respondent had a case, it was 
+referable to an arbitrator and the respondent could 
+not arbitrarily order for recovery of the said amount 
+from the petitioner and other contractors. That the 
+petitioner  is  a  company  of  renown  working  in 
+Pakistan and is being subjected to harassment 
+unnecessarily. 
+
+Notice to the respondent.  
+3. 
+Incidentally Rana Muhammad Tariq, Adv. is 
+present in Court. He accepts notice on behalf of the 
+respondent.  He  is  directed  to  file  parawise 
+comments within two weeks.  
+CM No.5617/2001 
+
+4.  Notice. Recovery shall not be made from the 
+petitioner until the next date.  
+5.  To  come  up  on  9.10.2001."  (Emphasis 
+added) 
+
+ 28.  The  first  ground  taken  in  W.P.No.2978/2001 
+
+reads inter alia as follows:-  
+
+"Each of the contracts has a settlement of disputes 
+clause which inter alia lays down that a dispute 
+between the petitioner and the respondent shall, in 
+the  first  instance  be  referred  to  the 
+Engineer/Consultant for his decision, and if either 
+party  is  aggrieved  by  the  decision  of  the 
+Engineer/Consultant the said aggrieved party may 
+ask for arbitration as specified in the said clause. "  
+
+ 29.  Perusal of the grounds taken in the writ petition 
+
+in conjunction with the order dated 24.09.2001 shows 
+
+that the respondent's case before the Hon'ble Lahore 
+
+High  Court  was  that  the  dispute  regarding  the 
+
+recovery  of  Rs.31.200  Million,  was  referable  to  an 
+
+arbitrator  and  that  the appellant  could  not arbitrarily 
+
+order 
+
+its  recovery.  Examining  the  case 
+
+in  this 
+
+perspective,  I  am  of  the  view  that  there  was  no 
+
+impediment  placed  on  the  appellant  by  the  said 
+
+injunctive order to institute arbitration proceedings in 
+
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+
+F.A.O. No.88 of 2015 
+
+accordance  with  clause  67  of  the  contract  between 
+
+the  appellant  and  the  respondent  for  the  recovery  of 
+
+the said amount. What was restrained by the Hon'ble 
+
+Lahore  High  Court  was  the  process  for  the  recovery 
+
+of  the  said  amount  initiated  by  the  appellant  through 
+
+its letter dated 11.06.2001, which had been impugned 
+
+in the said writ petition.  
+
+ 30.  The  Hon'ble  Lahore  High  Court  through  its 
+
+order  dated  24.09.2001  had  not  restrained  the 
+
+appellant 
+
+from 
+
+instituting  a  suit  or  arbitration 
+
+proceedings.  Even  after  the  injunctive  order  was 
+
+vacated  by  the  Hon'ble  Lahore  High  Court  on 
+
+30.03.2004,  the  appellant  did  not  institute  or  initiate 
+
+arbitration proceedings for the recovery of Rs.31.200 
+
+Million  from  the  respondent  for  not  using  Cellulose 
+
+Fibers  in  the  asphalt  base  course  mix.  It  was  the 
+
+respondent which, on 28.04.2004 filed an application 
+
+for  reference  of  the  said  dispute  to  arbitration. 
+
+Hence,  I  do  not  find  the  appellant  entitled  to  the 
+
+benefit of Section 15 of the Limitation Act, 1908.  
+
+ 31.  The  learned  arbitrator,  through  a  detailed  23 
+
+page  arbitration  award,  dealt  with  the  respective 
+
+claims  of  the  contesting  parties.  The  claim  of  the 
+
+appellant  on  account  of  the  non-use  of  the  Cellulose 
+
+Fibers in the asphalt base course mix, was dealt with 
+
+by the learned arbitrator in the following terms:-  
+
+"43.  During  execution  of  the  work,  however, 
+Cellulose Fiber was not used at all in any of the 
+projects, in Asphaltic Base Course or Asphaltic 
+Wearing  Course.  The  individual  projects  were 
+completed  in  respective  time,  the  last  being 
+completed during June, 2002, and final bills paid. 
+No recoveries were to be made on account of non 
+use of Cellulose Fiber in case of Asphaltic Wearing 
+Course, since payment of Cellulose Fiber had to be 
+based  on  its  quantity,  in  KG,  used.  However, 
+recovery on account of non use of Cellulose Fiber 
+in Asphaltic Base Course was justifiable. NHA, 
+during June 2001, initiated recoveries through its 
+internal  letter  (Exhibit-1)  from  the  three 
+contractors, among others, based on non use of 
+Cellulose Fiber in the Asphaltic Base Course, and 
+hence this Arbitration." 
+
+ 
+ 
+ 
+ 
+19 
+
+F.A.O. No.88 of 2015 
+
+"46.  ….. However, NHA all along, never initiated a 
+recovery notice to any of the affected contractors 
+nor ever raised its claim against any of them, which 
+is extremely strange and unexpected. The first time 
+ever  that NHA raised claims  against  the  three 
+contractors (CPECC, HCL & SKB) was on 11 June 
+2006, that too as fulfillment of obligation of this 
+Arbitration. NHA, for unknown reasons, allowed 
+well over three years to elapse after completion of 
+each of the seven contracts and did not raise any 
+claim, thereby depriving itself of the right to affect 
+recovery. Thus, as established by the Counsel for 
+HCL & SKB, under Article 115 of the Limitation Act, 
+since more than three years had passed since 
+completion of projects, through the cause of action 
+had arisen years earlier than  completion when 
+Cellulose Fiber's non use had been first known, the 
+claim of NHA had become time barred……"  
+
+ 32.  The  learned  counsel  for  the  contesting  parties 
+
+read  over  most  of  the  arbitration  award  during  the 
+
+hearing  of  the  appeal.  I  was  not  able  to  find  any 
+
+infirmity  or  invalidity  in  the  same.  There  is  nothing 
+
+apparent on the surface of the record to indicate any 
+
+misconduct on the part of the learned arbitrator. It is 
+
+settled law that a court while examining the validity of 
+
+an  award  does  not  sit  as  a court of appeal.  It  cannot 
+
+undertake  reappraisal  of  evidence.  For  a  court  to 
+
+interfere  in  an  arbitration  award,  there  has  to  be  an 
+
+error on the face of it and discoverable by reading the 
+
+award itself. The learned Trial Court has been mindful 
+
+not 
+
+to  scrutinize 
+
+the  arbitration  award  dated 
+
+25.06.2007  by applying the yardstick of an appeal.  
+
+ 33. 
+
+In the cases of Kashmir Corporation Limited VS 
+
+Pakistan International Airlines reported as (PLD 1995 
+
+Karachi  301),  and  Messrs  Awan  Industrial  Ltd  VS 
+
+Executive  Engineer  Lined  Channel  Division,  (1992 
+
+SCMR  65),  it  has  been  held  that  it  was  obligatory  for 
+
+the  arbitrator  to  determine  whether  the  claim  of  a 
+
+party  before  it  was  barred  by  time,  and  that  an 
+
+arbitration  award  which  does  not  take  into  account 
+
+the  fact  that  their  claim  was  barred  by  limitation, 
+
+could  not  be  made  a  rule  of  court.  The  learned 
+
+arbitrator, in the instant case, has in accordance with 
+
+ 
+ 
+ 
+20 
+
+F.A.O. No.88 of 2015 
+
+the law laid down in the said judgments correctly held 
+
+that the appellant’s claim of 31.200 Million against the 
+
+respondent  for  not  using  Rs.31.200  Million  from  the 
+
+respondent  for  not  using  Cellulose  Fibers  in  the 
+
+asphalt base course mix, was barred by time.  
+
+ 34.  By  reason  of  the  aforementioned,  I  find  the 
+
+judgment  and  decree  dated  20.04.2015,  passed  by 
+
+the  learned  Civil  Court  to  be  strictly  in  accordance 
+
+with the law. Hence, this appeal is dismissed with no 
+
+order as to costs.  
+
+(MIANGUL HASSAN AURANGZEB) 
+
+JUDGE  
+
+ANNOUNCED IN AN OPEN COURT ON ____________/2016 
+
+(JUDGE) 
+
+APPROVED FOR REPORTING 
+
+Qamar Khan*  
+
+(JUDGE) 
+
+Uploaded By: Zulqarnain Shah 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+

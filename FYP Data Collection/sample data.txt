@@ -31,13 +31,13 @@ Outcome: "Pending"
 Appeal: "No"
 
 
-1- https://pakistanlegalresearch.com/family-law/
+1- https://pakistanlegalresearch.com/family-law/ => done
 
 2- https://caselaw.shc.gov.pk/caselaw/public/home 
 
 3- https://www.pja.gov.pk/familylawsordinance
 
-4- https://mis.ihc.gov.pk/frmSrchOrdr => pdf's ok
+4- https://mis.ihc.gov.pk/frmSrchOrdr => done
  
-5- https://www.supremecourt.gov.pk/downloads_judgements/c.p._5601_2021.pdf
+5- https://www.supremecourt.gov.pk/downloads_judgements/c.p._5601_2021.pdf => done
 
