@@ -15808,7 +15808,7 @@
         "Appeal": "nan"
     },
     {
-        "Case Id": 'nan',
+        "Case Id": "nan" ,
         "Date Filed": "01-03-2018",
         "Client Name": "Client name not found",
         "Opponent Name": "Opponent name not found",
