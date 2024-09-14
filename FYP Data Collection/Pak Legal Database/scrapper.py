@@ -5,6 +5,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import re
 import json
 import time
+from selenium.webdriver.common.keys import Keys
+
 
 driver = webdriver.Firefox()
 driver.maximize_window()
@@ -32,31 +34,37 @@ submit_btn = submit_div.find_element(By.ID, 'wp-submit')
 submit_btn.click()
 # =========================================================
 
-WebDriverWait(driver, 30).until(
-    EC.presence_of_element_located((By.TAG_NAME, 'body'))
-)
+time.sleep(3) 
 
 search_button = driver.find_element(By.CLASS_NAME, 'jet-search-filter__input')
 search_button.send_keys('family')
-search_button.click()
+search_button.send_keys(Keys.ENTER)
+
+time.sleep(5) 
 
 
-pagination_div = driver.find_element(By.CLASS_NAME, 'jet-filters-pagination')
+
+pagination_div = driver.find_element(By.CLASS_NAME, 'jet-filters-pagination') 
 pagination_item = pagination_div.find_element(By.CLASS_NAME, 'jet-filters-pagination__item')
-pagination_links = pagination_item.find_elements(By.CLASS_NAME, 'jet-filters-pagination__link')
-
-
-# Define the regex pattern for names
-names_pattern = r"(.*) VS (.*)"
-
+# pagination_links = pagination_item.find_elements(By.CLASS_NAME, 'jet-filters-pagination__link')
 i = 1
 
-for link in pagination_links:
-    link.click() 
-    time.sleep(5)
+# Define the regex pattern for names
+names_pattern = r"(.*)\s*(?:VS|Vs|V\.|vs|v\.|V/S|VERSUS|versus|Versus)\s*(.*)"
 
+
+def scroll_into_view(element):
+    driver.execute_script("arguments[0].scrollIntoView(true);", element)
+    time.sleep(3) 
+
+while True:
     grid = driver.find_element(By.CLASS_NAME, 'jet-listing-grid__items')
     divs = grid.find_elements(By.CLASS_NAME, 'jet-listing-grid__item')
+    
+    WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.CLASS_NAME, 'jet-listing-grid__item'))
+    )
+
 
     for div in divs:
         data = {
@@ -75,7 +83,7 @@ for link in pagination_links:
             'Outcome': 'nan',
             'Appeal': 'nan'
         }
-
+        
         try:
             # Extracting names
             h2 = div.find_element(By.CLASS_NAME, 'elementor-heading-title')
@@ -88,14 +96,12 @@ for link in pagination_links:
                 print(f'In case {i}, {names} could not be matched.')
         except Exception as e:
             print(f'Error extracting names: {e}')
-
         try:
             # Extracting Case ID
             case_id_element = div.find_element(By.XPATH, './/div//div//div//div[5]//div')
             data['Case ID'] = case_id_element.text
         except Exception as e:
             print(f'Error extracting Case ID: {e}')
-
         try:
             # Extracting Court name
             court_name_elements = div.find_elements(By.XPATH, './/div[6]//div//div//div')
@@ -103,7 +109,6 @@ for link in pagination_links:
                 data['Court'] = court_name_elements[0].text
         except Exception as e:
             print(f'Error extracting Court name: {e}')
-
         try:
             # Extracting Issue Type
             issue_div = div.find_element(By.XPATH, './/div[7]/div/div')
@@ -114,7 +119,6 @@ for link in pagination_links:
                     data['Issue Type'] = ', '.join(issue)
         except Exception as e:
             print(f'Error extracting Issue Type: {e}')
-
         try:
             # Extracting Judge Name
             judge_elements = div.find_elements(By.XPATH, './/div[8]/div/div/div')
@@ -122,14 +126,12 @@ for link in pagination_links:
                 data['Judge Name'] = judge_elements[0].text
         except Exception as e:
             print(f'Error extracting Judge Name: {e}')
-
         try:
             # Extracting Date Filed
             date_element = div.find_element(By.XPATH, './/div[9]/div/div/div')
             data['Date Filed'] = date_element.text
         except Exception as e:
             print(f'Error extracting Date Filed: {e}')
-
         try:
             # Extracting Case Summary
             case_summary_elements = div.find_elements(By.XPATH, './/div[11]/div/div/div')
@@ -137,18 +139,31 @@ for link in pagination_links:
                 data['Summary'] = case_summary_elements[0].text
         except Exception as e:
             print(f'Error extracting Case Summary: {e}')
-
         all_data.append(data)
-
-
         i += 1
+        
 
-# Export data to JSON file
-file_path = r"C:\Users\pcinf\OneDrive - Higher Education Commission\Coding\Web Scraping\FYP Data Collection\Pak Legal Database"
-with open(rf'{file_path}\data_output.json', 'w') as f:
-    json.dump(all_data, f, indent=4)
+    # Export data to JSON file
+    file_path = r"C:\Users\pcinf\OneDrive - Higher Education Commission\Coding\Web Scraping\FYP Data Collection\Pak Legal Database"
+    with open(rf'{file_path}\data_output.json', 'w') as f:
+        json.dump(all_data, f, indent=4)
 
-print('Data exported to data_output.json')
-print(len(all_data))
+    print('Data exported to data_output.json')
+    print(len(all_data))
 
-driver.quit()
+
+    
+
+    pagi_element = driver.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/div/div/div/section[2]/div/div/div/div[2]')
+    pagi_container = pagi_element.find_element(By.CLASS_NAME,'elementor-widget-container')
+    pagi_subdiv = pagi_container.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/    div/div/div/section[2]/div/div/div/div[2]/div/div')
+    pagination = pagi_subdiv.find_element(By.CLASS_NAME,'jet-filters-pagination')
+    
+    
+    driver.execute_script("arguments[0].style.display='none';", pagi_element)
+    next_btn = pagination.find_element(By.CSS_SELECTOR,'div[data-value="next"]') 
+    driver.execute_script("arguments[0].click();", next_btn)
+    next_btn.click()
+    time.sleep(10) 
+    
+

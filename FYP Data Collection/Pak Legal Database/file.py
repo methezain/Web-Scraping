@@ -4,14 +4,21 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
 import json
-import os
+import time
+from selenium.webdriver.common.keys import Keys
+
 
 driver = webdriver.Firefox()
 driver.maximize_window()
 
 driver.get('https://www.paklegaldatabase.com/login/')
-WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, 'mepr_loginform')))
+driver.implicitly_wait(30)
 
+# Initialize empty list to collect all data
+all_data = []
+
+# Login handling
+# =========================================================
 login_form = driver.find_element(By.ID, 'mepr_loginform')
 username = login_form.find_element(By.ID, 'user_login')
 username.send_keys('methealizain@gmail.com')
@@ -22,31 +29,54 @@ password.send_keys('A112233@z')
 remember_me = login_form.find_element(By.ID, 'rememberme')
 remember_me.click()
 
-submit_btn = login_form.find_element(By.ID, 'wp-submit')
+submit_div = login_form.find_element(By.CSS_SELECTOR, '#mepr_loginform > div.submit')
+submit_btn = submit_div.find_element(By.ID, 'wp-submit')
 submit_btn.click()
+# =========================================================
 
-WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+time.sleep(3) 
 
 search_button = driver.find_element(By.CLASS_NAME, 'jet-search-filter__input')
-search_button.send_keys("Family")
-search_button.click()
+search_button.send_keys('family')
+search_button.send_keys(Keys.ENTER)
 
-WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'jet-listing-grid__items')))
+time.sleep(5) 
 
-all_data = []
 
-names_pattern = r"(.*) VS (.*)"
-file_path = r"C:\Users\pcinf\OneDrive - Higher Education Commission\Coding\Web Scraping\FYP Data Collection\Pak Legal Database"
 
-if not os.path.exists(file_path):
-    os.makedirs(file_path)
-
+pagination_div = driver.find_element(By.CLASS_NAME, 'jet-filters-pagination') 
+pagination_item = pagination_div.find_element(By.CLASS_NAME, 'jet-filters-pagination__item')
+# pagination_links = pagination_item.find_elements(By.CLASS_NAME, 'jet-filters-pagination__link')
 i = 1
+
+# Define the regex pattern for names
+names_pattern = r"(.*)\s*(?:VS|Vs|V\.|vs|v\.|V/S|VERSUS|versus|Versus)\s*(.*)"
+
+
+def scroll_into_view(element):
+    driver.execute_script("arguments[0].scrollIntoView(true);", element)
+    time.sleep(3) 
+    
+pagi_element = driver.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/div/div/div/section[2]/div/div/div/div[2]')
+pagi_container = pagi_element.find_element(By.CLASS_NAME,'elementor-widget-container')
+pagi_subdiv = pagi_container.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/    div/div/div/section[2]/div/div/div/div[2]/div/div')
+pagination = pagi_subdiv.find_element(By.CLASS_NAME,'jet-filters-pagination')
+page_items = pagination.find_elements(By.CLASS_NAME, 'jet-filters-pagination__item') 
+print(len(page_items))
+print(len(page_items)) 
+
+
+
+
 while True:
-    grid = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.CLASS_NAME, 'jet-listing-grid__items'))
-    )
+    
+    grid = driver.find_element(By.CLASS_NAME, 'jet-listing-grid__items')
     divs = grid.find_elements(By.CLASS_NAME, 'jet-listing-grid__item')
+    
+    WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.CLASS_NAME, 'jet-listing-grid__item'))
+    )
+
 
     for div in divs:
         data = {
@@ -65,86 +95,91 @@ while True:
             'Outcome': 'nan',
             'Appeal': 'nan'
         }
-
+        
         try:
-            h2 = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, 'elementor-heading-title'))
-            )
+            # Extracting names
+            h2 = div.find_element(By.CLASS_NAME, 'elementor-heading-title')
             a = h2.find_element(By.TAG_NAME, 'a')
             names = a.text
             match = re.match(names_pattern, names)
             if match:
                 data['Client Name'], data['Opponent Name'] = match.groups()
+            else:
+                print(f'In case {i}, {names} could not be matched.')
         except Exception as e:
             print(f'Error extracting names: {e}')
-
         try:
-            case_id_element = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div//div//div//div[5]//div'))
-            )
+            # Extracting Case ID
+            case_id_element = div.find_element(By.XPATH, './/div//div//div//div[5]//div')
             data['Case ID'] = case_id_element.text
         except Exception as e:
             print(f'Error extracting Case ID: {e}')
-
         try:
-            court_name_element = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div[6]//div//div//div'))
-            )
-            data['Court'] = court_name_element.text
+            # Extracting Court name
+            court_name_elements = div.find_elements(By.XPATH, './/div[6]//div//div//div')
+            if court_name_elements:
+                data['Court'] = court_name_elements[0].text
         except Exception as e:
             print(f'Error extracting Court name: {e}')
-
         try:
-            issue_div = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div[7]/div/div'))
-            )
+            # Extracting Issue Type
+            issue_div = div.find_element(By.XPATH, './/div[7]/div/div')
             issue_spans = issue_div.find_elements(By.TAG_NAME, 'span')
-            issue = [span.text for span in issue_spans]
-            data['Issue Type'] = ', '.join(issue) if issue else 'nan'
+            if issue_spans:
+                issue = [span.text for span in issue_spans]
+                if issue:
+                    data['Issue Type'] = ', '.join(issue)
         except Exception as e:
             print(f'Error extracting Issue Type: {e}')
-
         try:
-            judge_element = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div[8]/div/div/div'))
-            )
-            data['Judge Name'] = judge_element.text
+            # Extracting Judge Name
+            judge_elements = div.find_elements(By.XPATH, './/div[8]/div/div/div')
+            if judge_elements:
+                data['Judge Name'] = judge_elements[0].text
         except Exception as e:
             print(f'Error extracting Judge Name: {e}')
-
         try:
-            date_element = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div[9]/div/div/div'))
-            )
+            # Extracting Date Filed
+            date_element = div.find_element(By.XPATH, './/div[9]/div/div/div')
             data['Date Filed'] = date_element.text
         except Exception as e:
             print(f'Error extracting Date Filed: {e}')
-
         try:
-            case_summary_element = WebDriverWait(div, 10).until(
-                EC.presence_of_element_located((By.XPATH, './/div[11]/div/div/div'))
-            )
-            data['Summary'] = case_summary_element.text
+            # Extracting Case Summary
+            case_summary_elements = div.find_elements(By.XPATH, './/div[11]/div/div/div')
+            if case_summary_elements:
+                data['Summary'] = case_summary_elements[0].text
         except Exception as e:
             print(f'Error extracting Case Summary: {e}')
-
         all_data.append(data)
         i += 1
+        
 
-    try:
-        next_btn = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.CLASS_NAME, 'next'))
+    # Export data to JSON file
+    file_path = r"C:\Users\pcinf\OneDrive - Higher Education Commission\Coding\Web Scraping\FYP Data Collection\Pak Legal Database"
+    with open(rf'{file_path}\data_output.json', 'w') as f:
+        json.dump(all_data, f, indent=4)
+
+    print('Data exported to data_output.json')
+    print(len(all_data))
+    
+    pagi_element = driver.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/div/div/div/section[2]/div/div/div/div[2]')
+    pagi_container = pagi_element.find_element(By.CLASS_NAME,'elementor-widget-container')
+    pagi_subdiv = pagi_container.find_element(By.XPATH,'/html/body/div[1]/div/section[1]/div/div[2]/div/    div/div/div/section[2]/div/div/div/div[2]/div/div')
+    pagination = pagi_subdiv.find_element(By.CLASS_NAME,'jet-filters-pagination')
+    page_items = pagination.find_elements(By.CLASS_NAME, 'jet-filters-pagination__item')
+    
+    driver.execute_script("arguments[0].style.display='none';", pagi_element)
+    next_btn = pagination.find_element(By.CSS_SELECTOR,'div[data-value="next"]') 
+    driver.execute_script("arguments[0].style.display='block';", next_btn)
+    
+    if next_btn.get_attribute('disabled') is None:
+        driver.execute_script("arguments[0].click();", next_btn)
+        WebDriverWait(driver, 15).until(
+            EC.staleness_of(grid)
         )
-        next_btn.click()
-        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'jet-listing-grid__items')))
-    except Exception as e:
-        print(f"No more pages or error clicking next: {e}")
+        time.sleep(5) 
+    else:
+        print("Next button is disabled Now.")
         break
-
-with open(rf'{file_path}\data_output.json', 'w') as f:
-    json.dump(all_data, f, indent=4)
-
-print('Data exported to data_output.json')
-print(len(all_data))
-
-driver.quit()
+    
