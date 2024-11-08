@@ -33,7 +33,7 @@ Appeal: "No"
 
 1- https://pakistanlegalresearch.com/family-law/ => done
 
-2- https://caselaw.shc.gov.pk/caselaw/public/home => mashkook
+2- https://caselaw.shc.gov.pk/caselaw/public/home => done
 
 3- https://www.pja.gov.pk/familylawsordinance => done
 
@@ -41,5 +41,5 @@ Appeal: "No"
  
 5- https://www.supremecourt.gov.pk/downloads_judgements/c.p._5601_2021.pdf => done
 
-6- https://www.paklegaldatabase.com
+6- https://www.paklegaldatabase.com => done
 

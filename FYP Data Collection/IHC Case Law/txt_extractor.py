@@ -7,7 +7,7 @@ court_name_pattern = r"ORDER SHEET\s*\n(?:\s*\n)*(.+?)(?:\n|$)"
 date_pattern = r"\d{2}[-.]\d{2}[-.]\d{4}"
 client_opponent_pattern = r"(.*)\s+VS\s+(.*)"
 case_id_pattern = r'NO\.\s*([^\n]*)'
-judge_name_pattern = r"\((.*?)\)"
+judge_name_pattern = r"\(\s*(.*?)\s*\)"
 summary_pattern = r'([^\n]*)'
 
 
@@ -40,8 +40,11 @@ def extract_data_from_txt(txt_path):
     date_index = text.find(date)
     judge_name_index = text.find(judge_name)
 
-    summary_text = text[date_index + len(date):judge_name_index]
-    summary_text = summary_text.strip()
+
+    
+    summary_text_match = text[date_index + len(date):]
+    summary_text = summary_text_match.strip()
+    
 
     # Create a dictionary to store the extracted data
     data = {

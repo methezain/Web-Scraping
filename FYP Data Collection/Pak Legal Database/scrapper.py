@@ -21,10 +21,10 @@ all_data = []
 # =========================================================
 login_form = driver.find_element(By.ID, 'mepr_loginform')
 username = login_form.find_element(By.ID, 'user_login')
-username.send_keys('methealizain@gmail.com')
+username.send_keys('hammadgul998@gmail.com')
 
 password = login_form.find_element(By.ID, 'user_pass')
-password.send_keys('A112233@z')
+password.send_keys('Hammad.@123') 
 
 remember_me = login_form.find_element(By.ID, 'rememberme')
 remember_me.click()
@@ -142,11 +142,6 @@ while True:
         all_data.append(data)
         i += 1
         
-
-    # Export data to JSON file
-    file_path = r"C:\Users\pcinf\OneDrive - Higher Education Commission\Coding\Web Scraping\FYP Data Collection\Pak Legal Database"
-    with open(rf'{file_path}\data_output.json', 'w') as f:
-        json.dump(all_data, f, indent=4)
 
     print('Data exported to data_output.json')
     print(len(all_data))
